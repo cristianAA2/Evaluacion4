@@ -1,5 +1,5 @@
 import "./Texto.css"
-function Texto(params) {
+function Texto(props) {
     return(
         <div class="container">
             <p>Payday 2 es un videojuego de disparos en primera persona multijugador cooperativo, desarrollado por Overkill Software. Es la secuela de Payday: The Heist,    título lanzado en el año 2011 por la misma empresa. Payday 2 fue originalmente publicado el 13 de agosto de 2013 para las plataformas PlayStation 3, Xbox 360 y Microsoft Windows. En el año 2015 se publicó una versión mejorada para PlayStation 4 y Xbox One.En diciembre de 2017, se anunció que el título llegaría a Nintendo Switch y que su fecha de lanzamiento sería en febrero de 2018.</p>

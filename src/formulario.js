@@ -1,6 +1,6 @@
 import "./Formulario.css"
 
-function Formulario() {
+function Formulario(props) {
     return(
         <div>
             <h2>Formulario</h2>

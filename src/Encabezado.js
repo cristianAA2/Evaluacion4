@@ -1,6 +1,6 @@
 import "./Encabezado.css"
 
-function Encabezado() {
+function Encabezado(props) {
     return(
         <div>
             <h1>Payday 2</h1>
